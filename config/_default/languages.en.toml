@@ -1,0 +1,14 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Silicon Spiral"
+
+[params]
+logo = "img/avatar.png"
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+description = "Generative Art"
+copyright = "&copy; 2024-2026 Silicon Spiral"

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Silicon Spiral</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Silicon Spiral</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2024-2026 Silicon Spiral</copyright>
+    <lastBuildDate>Wed, 07 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About Silicon Spiral</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>About</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/about/featured.png" />
+    </item>
+    
+    <item>
+      <title>Ammonite</title>
+      <link>http://localhost:1313/artwork/ammonite/</link>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/artwork/ammonite/</guid>
+      <description>Series 1 / Part 6</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/artwork/ammonite/featured.png" />
+    </item>
+    
+    <item>
+      <title>Weave</title>
+      <link>http://localhost:1313/artwork/weave/</link>
+      <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/artwork/weave/</guid>
+      <description>Series 1 / Part 5</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/artwork/weave/featured.png" />
+    </item>
+    
+    <item>
+      <title>Nett</title>
+      <link>http://localhost:1313/artwork/nett/</link>
+      <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/artwork/nett/</guid>
+      <description>Series 1 / Part 4</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/artwork/nett/featured.png" />
+    </item>
+    
+    <item>
+      <title>Square Wave</title>
+      <link>http://localhost:1313/artwork/square-wave/</link>
+      <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/artwork/square-wave/</guid>
+      <description>Series 1 / Part 3</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/artwork/square-wave/featured.png" />
+    </item>
+    
+    <item>
+      <title>Quad Crystals</title>
+      <link>http://localhost:1313/artwork/quad-crystals/</link>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/artwork/quad-crystals/</guid>
+      <description>Series 1 / Part 2</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/artwork/quad-crystals/featured.png" />
+    </item>
+    
+    <item>
+      <title>Crimson Sun</title>
+      <link>http://localhost:1313/artwork/crimson-sun/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/artwork/crimson-sun/</guid>
+      <description>Series 1 / Part 1</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/artwork/crimson-sun/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

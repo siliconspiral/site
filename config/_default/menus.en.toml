@@ -1,0 +1,19 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Artwork"
+pre = "bluesky"
+pageRef = "artwork"
+identifier = "5smhlcTQ5y"
+weight = 10
+
+[[main]]
+name = "About"
+pre = "heart-empty"
+pageRef = "about"
+identifier = "5eGRcB0DgT"
+weight = 20
+
+[[footer]]
+none = "none"
