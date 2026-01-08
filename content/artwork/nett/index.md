@@ -40,6 +40,3 @@ I mentioned that the image is built up by stepping through time, frame by frame,
 </center>
 
 Finally, why the name *Nett*? At some point the piece started to look like a fishing net. So why the odd spelling? As I was finishing this work, I was on family holiday in a beautiful part of Bavaria in Germany. The German language has the word *nett* which means *nice*, which I felt was a fitting name for this piece.
-
-
-
