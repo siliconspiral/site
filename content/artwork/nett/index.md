@@ -6,7 +6,7 @@ description: "Nett"
 tags: ["Nett", Generative Art"]
 summary: "Series 1 / Part 4"
 ---
-![Nett](art/nett.png "Nett<br>Series1 / Part 4")
+![Nett](art/nett.png "Nett<br>Series 1 / Part 4")
 
 {{< lead >}}
 This is the fourth piece in this series. As usual, I started with a small seed of an idea and grew things from there. In this case, I started with a simulation of the flocking of birds! Over past years, I've enjoyed writing a few graphical programs that simulate the behaviour and motion of a flock of birds which follow a lead bird whilst at the same time keeping their distance from each other. The end result is a natural and attractive swarming of dots, which led to this piece.

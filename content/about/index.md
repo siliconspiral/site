@@ -18,7 +18,7 @@ summary: "About"
 {{< lead >}}
 **What makes art... art?**
 
-**When do machine generated outputs change from being mere graphics and become art?**
+**When do machine generated outputs change from being mere graphics to become art?**
 
 **My work explores these questions.**
 {{< /lead >}}
