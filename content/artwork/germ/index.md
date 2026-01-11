@@ -9,7 +9,7 @@ summary: "Series 2 / Part 2"
 ![Germ](art/germ.png "Germ<br>Series 2 / Part 2")
 
 {{< lead >}}
-This piece started life courtesy of the book [50 Visions of Mathematics](https://global.oup.com/academic/product/50-visions-of-mathematics-9780198701811) forwarded by the Irish comedian and closet mathematician, Dara Ó Briain. Chapter 7 is titled *Pigs didn't fly but swine flu* where Ellen Brooks-Pollock and Ken Eames describe a theoretical mathematical model for the transmission of swine flu in the UK. This piece is a visual representation of that model.
+This piece started life courtesy of the book [50 Visions of Mathematics](https://global.oup.com/academic/product/50-visions-of-mathematics-9780198701811) forwarded by the Irish comedian and closet mathematician, Dara Ó Briain. Chapter 7 is titled *Pigs didn't fly but swine flu* in which Ellen Brooks-Pollock and Ken Eames describe a theoretical mathematical model for the transmission of swine flu in the UK. This piece is a visual representation of that model.
 {{< /lead >}}
 
 ![](/img/50-visions-of-mathematics.jpg "Visions of Mathematics")

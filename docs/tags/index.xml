@@ -2,99 +2,109 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Silicon Spiral</title>
-    <link>https://siliconspiral.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Silicon Spiral</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2024-2026 Silicon Spiral</copyright>
-    <lastBuildDate>Wed, 07 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://siliconspiral.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About</title>
-      <link>https://siliconspiral.com/tags/about/</link>
+      <link>http://localhost:1313/tags/about/</link>
       <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://siliconspiral.com/tags/about/</guid>
+      <guid>http://localhost:1313/tags/about/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Generative Art&#34;</title>
-      <link>https://siliconspiral.com/tags/generative-art/</link>
+      <link>http://localhost:1313/tags/generative-art/</link>
       <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://siliconspiral.com/tags/generative-art/</guid>
+      <guid>http://localhost:1313/tags/generative-art/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Germ</title>
-      <link>https://siliconspiral.com/tags/germ/</link>
+      <link>http://localhost:1313/tags/germ/</link>
       <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://siliconspiral.com/tags/germ/</guid>
+      <guid>http://localhost:1313/tags/germ/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Corazón</title>
+      <link>http://localhost:1313/tags/coraz%C3%B3n/</link>
+      <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/coraz%C3%B3n/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ammonite</title>
-      <link>https://siliconspiral.com/tags/ammonite/</link>
+      <link>http://localhost:1313/tags/ammonite/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://siliconspiral.com/tags/ammonite/</guid>
+      <guid>http://localhost:1313/tags/ammonite/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Weave</title>
-      <link>https://siliconspiral.com/tags/weave/</link>
+      <link>http://localhost:1313/tags/weave/</link>
       <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://siliconspiral.com/tags/weave/</guid>
+      <guid>http://localhost:1313/tags/weave/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Nett</title>
-      <link>https://siliconspiral.com/tags/nett/</link>
+      <link>http://localhost:1313/tags/nett/</link>
       <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://siliconspiral.com/tags/nett/</guid>
+      <guid>http://localhost:1313/tags/nett/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Square Wave</title>
-      <link>https://siliconspiral.com/tags/square-wave/</link>
+      <link>http://localhost:1313/tags/square-wave/</link>
       <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://siliconspiral.com/tags/square-wave/</guid>
+      <guid>http://localhost:1313/tags/square-wave/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Quad Crystals</title>
-      <link>https://siliconspiral.com/tags/quad-crystals/</link>
+      <link>http://localhost:1313/tags/quad-crystals/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://siliconspiral.com/tags/quad-crystals/</guid>
+      <guid>http://localhost:1313/tags/quad-crystals/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Crimson Sun</title>
-      <link>https://siliconspiral.com/tags/crimson-sun/</link>
+      <link>http://localhost:1313/tags/crimson-sun/</link>
       <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://siliconspiral.com/tags/crimson-sun/</guid>
+      <guid>http://localhost:1313/tags/crimson-sun/</guid>
       <description></description>
       
     </item>

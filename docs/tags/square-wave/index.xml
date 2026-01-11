@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Square Wave on Silicon Spiral</title>
-    <link>https://siliconspiral.com/tags/square-wave/</link>
+    <link>http://localhost:1313/tags/square-wave/</link>
     <description>Recent content in Square Wave on Silicon Spiral</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2024-2026 Silicon Spiral</copyright>
-    <lastBuildDate>Sat, 19 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://siliconspiral.com/tags/square-wave/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/square-wave/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Square Wave</title>
-      <link>https://siliconspiral.com/artwork/square-wave/</link>
+      <link>http://localhost:1313/artwork/square-wave/</link>
       <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://siliconspiral.com/artwork/square-wave/</guid>
+      <guid>http://localhost:1313/artwork/square-wave/</guid>
       <description>Series 1 / Part 3</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://siliconspiral.com/artwork/square-wave/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/artwork/square-wave/featured.png" />
     </item>
     
   </channel>
