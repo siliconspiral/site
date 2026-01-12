@@ -6,7 +6,7 @@ description: "Corazón"
 tags: ["Corazón", Generative Art"]
 summary: "Series 2 / Part 1"
 ---
-![Corazón](art/corazon.png "Corazón<br>Series 1 / Part 2")
+![Corazón](art/corazon.png "Corazón<br>Series 1 / Part 1")
 
 {{< lead >}}
 A new series, and a fresh start on my journey exploring where a "mere graphic" becomes art. It occurred to me that, although many of my pieces so far contain curved elements, looking more closely, I have rarely strayed from using circles or spirals to effect these curves. Perhaps a more organic, less regular curve will help to achieve a more natural feel to my pieces...?
