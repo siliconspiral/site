@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Silicon Spiral</title>
-    <link>http://localhost:1313/tags/about/</link>
+    <link>https://siliconspiral.com/tags/about/</link>
     <description>Recent content in About on Silicon Spiral</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2024-2026 Silicon Spiral</copyright>
-    <lastBuildDate>Wed, 07 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://siliconspiral.com/tags/about/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About Silicon Spiral</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://siliconspiral.com/about/</link>
       <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://siliconspiral.com/about/</guid>
       <description>About</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/about/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://siliconspiral.com/about/featured.png" />
     </item>
     
   </channel>

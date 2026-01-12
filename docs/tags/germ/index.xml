@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Germ on Silicon Spiral</title>
-    <link>http://localhost:1313/tags/germ/</link>
+    <link>https://siliconspiral.com/tags/germ/</link>
     <description>Recent content in Germ on Silicon Spiral</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2024-2026 Silicon Spiral</copyright>
-    <lastBuildDate>Sun, 02 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/germ/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://siliconspiral.com/tags/germ/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Germ</title>
-      <link>http://localhost:1313/artwork/germ/</link>
+      <link>https://siliconspiral.com/artwork/germ/</link>
       <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/artwork/germ/</guid>
+      <guid>https://siliconspiral.com/artwork/germ/</guid>
       <description>Series 2 / Part 2</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/artwork/germ/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://siliconspiral.com/artwork/germ/featured.png" />
     </item>
     
   </channel>
