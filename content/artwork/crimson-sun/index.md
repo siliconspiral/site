@@ -9,7 +9,7 @@ summary: "Series 1 / Part 1"
 ![Crimson Sun](art/crimson-sun.png "Crimson Sun<br>Series 1 / Part 1")
 
 {{< lead >}}
-"This is the first piece of artwork in my first art series. The initial seed of the idea was a sunflower rather than a sun. I had planned to create a circle and fill it with triangles which would represent the sunflower's seeds and see where that took me, but very quickly, especially as I started to colour the output in reddish tones, I realised that it looked less like a sunflower and more like a sun."
+This is the first piece of artwork in my first art series. The initial seed of the idea was a sunflower rather than a sun. I had planned to create a circle and fill it with triangles which would represent the sunflower's seeds and see where that took me, but very quickly, especially as I started to colour the output in reddish tones, I realised that it looked less like a sunflower and more like a sun.
 {{< /lead >}}
 
 ---

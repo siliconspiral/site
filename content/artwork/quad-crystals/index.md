@@ -9,7 +9,7 @@ summary: "Series 1 / Part 2"
 ![Quad Crystals](art/quad-crystals.png "Quad Crystals<br>Series 1 / Part 2")
 
 {{< lead >}}
-"This is the second piece my first art series. I began by drawing a set of quadrilaterals radiating out from the centre, and in fact, the piece started off life being called *Quad Ray*, but as the piece developed, the quads look less like rays emanating from the centre, and more like crystals."
+This is the second piece my first art series. I began by drawing a set of quadrilaterals radiating out from the centre, and in fact, the piece started off life being called *Quad Ray*, but as the piece developed, the quads look less like rays emanating from the centre, and more like crystals.
 {{< /lead >}}
 
 ---
