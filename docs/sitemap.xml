@@ -16,7 +16,13 @@
   </url>
   <url>
     <loc>https://siliconspiral.com/artwork/</loc>
-    <lastmod>2025-11-02T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-02T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://siliconspiral.com/artwork/spawn/</loc>
+    <lastmod>2025-12-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
